@@ -1,0 +1,9 @@
+.modal-80w {
+  min-width: 80% !important;
+}
+
+#btn {
+  border-radius: 50px;
+  padding: 0 30px !important;
+  margin-right: 10px;
+}

@@ -1,0 +1,26 @@
+.discussion-board-login {
+  padding: 1rem;
+  text-align: center;
+  margin-top: .5rem;
+}
+
+.login-paragraph {
+  display: inline-block !important;
+  margin-right: 2rem;
+  margin-bottom: 0;
+}
+
+.discussion-board-container {
+  padding: 1rem;
+}
+
+.discussion-messages-container {
+  overflow-y: scroll;
+  max-height: 300px;
+  overflow-x: hidden;
+}
+
+.discussion-board-form textarea {
+  margin: 1rem 0;
+}
+
