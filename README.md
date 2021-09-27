@@ -34,7 +34,7 @@ The applications authentication runs on a deployed instance of keycloak wich mig
 
 In the src/services/index.js you need to set the environment variables to match your urls.
 
-The backend of this application can be found here: [backend](https://github.com/Jaber-Ali/Lagalt-backend)
+The backend of this application can be found here: :point_right: [backend](https://github.com/Jaber-Ali/Lagalt-backend)
 
 # Heroku
 
